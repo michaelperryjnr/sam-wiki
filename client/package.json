@@ -1,7 +1,7 @@
 {
-  "name": "themesender",
+  "name": "samwiki-client",
   "version": "1.0.0",
-  "description": "Mern Chat app",
+  "description": "Wiki web app",
   "scripts": {
     "start": "parcel ./src/index.html",
     "test": "react-scripts test",
@@ -58,14 +58,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/michaelperryjnr/themesender.git"
+    "url": "git+https://github.com/michaelperryjnr/samwiki-client.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/michaelperryjnr/themesender/issues"
+    "url": "https://github.com/michaelperryjnr/samwiki-client/issues"
   },
-  "homepage": "https://github.com/michaelperryjnr/themesender#readme",
+  "homepage": "https://github.com/michaelperryjnr/samwiki-client#readme",
   "main": "postcss.config.js"
 }
